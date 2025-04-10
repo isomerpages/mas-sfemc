@@ -111,5 +111,6 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |UBS Investment Bank  | Bank | 2019-01 | 2022-02-17 | [](/files/Pdf/Register/statement_of_commitment_UBS IB.pdf) | [](/files/Pdf/Dcs/GFXC Liquidity Provider Disclosure Cover Sheet (2021 Dec).pdf)|
 |Union Bancaire Privée, UBP SA, Singapore Branch  | Bank | 2019-01 | 2018-12-05 | [](/files/Pdf/Register/UnionBancairePrivee.pdf) | N.A.|
 |United Overseas Bank Limited – UOB Singapore  | Bank | 2019-01 | 2022-07-22 | [](/files/Pdf/Register/UOB.pdf) | N.A.|
+|Virtu Financial Singapore Pte. Ltd.  | E-trading platform | 2025-03 | 2025-03-26 | [](/files/Pdf/Register/VFGSG___Statement_of_Commitment__26_March_2025_.pdf) | N.A.|
 |VP Bank Ltd, Singapore Branch  | Bank | 2019-01 | 2018-12-21 | [](/files/Pdf/Register/VPBANK.pdf) | N.A.|
 |Westpac Banking Corporation  | Bank | 2019-01 | 2022-08-11 | [](/files/Pdf/Register/WESTPACBANKINGCORPORATION.pdf) | N.A.|
