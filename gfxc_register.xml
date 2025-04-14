@@ -453,6 +453,13 @@
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/VPBANK.pdf</statement_url>
 		</market_participant>
 		<market_participant>
+			<participant_name>Virtu Financial Singapore Pte. Ltd.</participant_name>
+			<participant_type>E-trading platform</participant_type>
+			<date_admission>2025-03</date_admission>
+			<date_signing>2025-03-26</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/VFGSG___Statement_of_Commitment__26_March_2025_.pdf</statement_url>
+		</market_participant>
+		<market_participant>
 			<participant_name>Westpac Banking Corporation</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
