@@ -29,8 +29,8 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Agricultural Bank of China Limited, Singapore Branch  | Bank | 2019-05 | 2019-05-14 | [](/files/Pdf/Register/ABOC.pdf) | N.A.|
 |Australia and New Zealand Banking Group Limited  | Bank | 2019-01 | 2022-05-20 | [](/files/Pdf/Register/ANZ.pdf) | [](/files/Pdf/Dcs/ANZ_liquidity_provider_disclosure_sheet.pdf)|
 |Bangkok Bank Public Company Limited, Singapore Branch  | Bank | 2019-01 | 2018-11-30 | [](/files/Pdf/Register/BangkokBank.pdf) | N.A.|
-|Bank of America Singapore Limited  | Bank | 2019-01 | 2022-06-22 | [](/files/Pdf/Register/BANKOFAMERICASINGAPORE.pdf) | [](/files/Pdf/Dcs/Bank of America Singapore - Disclosure Sheet.pdf)|
-|Bank of America, N.A., Global Banking and Markets  | Bank | 2019-01 | 2018-04-02 | [](/files/Pdf/Register/BoA.pdf) | N.A.|
+|Bank of America Singapore Limited  | Bank | 2019-01 | 2022-06-22 | [](/files/Pdf/Register/BOA_Singapore_Limited.pdf) | [](/files/Pdf/Dcs/Bank of America Singapore - Disclosure Sheet.pdf)|
+|Bank of America, N.A., Global Banking and Markets  | Bank | 2019-01 | 2018-04-02 | [](/files/Pdf/Register/BOA_Global_Banking_and_Markets.pdf) |  [](/files/Pdf/Dcs/BofA_Liquidity_Provider_Disclosure_Cover_Sheet_April_2025.pdf)|
 |Bank of Communications Co., Ltd., Singapore Branch  | Bank | 2019-01 | 2018-12-28 | [](/files/Pdf/Register/BANKOFCOMMUNICATIONS.pdf) | N.A.|
 |Bank of Taiwan, Singapore Branch  | Bank | 2019-01 | 2018-10-19 | [](/files/Pdf/Register/BANKOFTAIWAN.pdf) | N.A.|
 |Bank Pictet &amp; Cie (Asia) Ltd  | Bank | 2019-02 | 2019-01-18 | [](/files/Pdf/Register/Pictet.pdf) | N.A.|
