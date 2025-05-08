@@ -131,8 +131,9 @@
 			<participant_name>Bank of America, ., Global Banking and Markets</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
-			<date_signing>2018-04-02</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/BoA.pdf</statement_url>
+			<date_signing>2025-04-10</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/BOA_Global_Banking_and_Markets.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/BofA_Liquidity_Provider_Disclosure_Cover_Sheet_April_2025.pdf</disclosure_sheet_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>The FX activity of BNP Paribas Global Markets</participant_name>
@@ -470,8 +471,8 @@
 			<participant_name>Bank of America Singapore Limited</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
-			<date_signing>2022-06-22</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/BANKOFAMERICASINGAPORE.pdf</statement_url>
+			<date_signing>2025-04-10</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/BOA_Singapore_Limited.pdf</statement_url>
 			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/Bank of America Singapore - Disclosure Sheet.pdf</disclosure_sheet_url>
 		</market_participant>
 		<market_participant>
