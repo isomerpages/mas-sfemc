@@ -78,7 +78,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Malayan Banking Berhad, Singapore  | Bank | 2019-01 | 2022-11-08 | [](/files/Pdf/Register/MalayanBanking.pdf) | N.A.|
 |Maybank Singapore Limited  | Bank | 2019-01 | 2022-11-08 | [](/files/Pdf/Register/MayBank.pdf) | N.A.|
 |Mizuho Bank, Ltd. (Singapore Branch)  | Bank | 2019-01 | 2022-10-12 | [](/files/Pdf/Register/Mizuho.pdf) | N.A.|
-|Monetary Authority of Singapore  | Central bank | 2019-01 | 2022-08-31 | [](/files/Pdf/Register/MAS.pdf) | N.A.|
+|Monetary Authority of Singapore  | Central bank | 2019-01 | 2025-06-30 | [](/files/Pdf/Register/2025_06_30_MAS_Statement_of_Commitment.pdf) | N.A.|
 |MUFG Bank, Ltd.  | Bank | 2019-01 | 2022-06-17 | [](/files/Pdf/Register/MUFG.pdf) | N.A.|
 |National Australia Bank Limited  | Bank | 2019-01 | 2017-06-16 | [](/files/Pdf/Register/NATIONALAUSTRALIABANK.pdf) | N.A.|
 |National Bank of Kuwait SAKP, Singapore Branch  | Bank | 2019-01 | 2018-10-19 | [](/files/Pdf/Register/NATIONALBANKOFKUWAIT.pdf) | N.A.|
