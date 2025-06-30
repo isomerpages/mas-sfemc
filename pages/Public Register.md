@@ -98,7 +98,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Sumitomo Mitsui Banking Corporation, Singapore Branch  | Bank | 2019-01 | 2023-03-20 | [](/files/Pdf/Register/SUMITOMOMITSUIBANKINGCORPORATION.pdf) | N.A.|
 |Sumitomo Mitsui Trust Bank, Limited (SG Br)  | Bank | 2019-01 | 2023-06-23 | [](/files/Pdf/Register/sumitomomitsuitrustbankltdsg.pdf) | N.A.|
 |Svenska Handelsbanken AB (Singapore Branch)  | Bank | 2019-01 | 2018-08-20 | [](/files/Pdf/Register/SvenskaHandelsbanken.pdf) | N.A.|
-|TD Securities  | Bank | 2019-01 | 2022-04-29 | [](/files/Pdf/Register/TD Securities-FX-Global-Code.pdf) | [](/files/Pdf/Dcs/FX Disclosure Cover Sheet (TD Securities).pdf)|
+|TD Securities  | Bank | 2019-01 | 2025-06-24 | [](/files/Pdf/Register/2025_06_24_TD_Securities_SOC.pdf) | [](/files/Pdf/Dcs/2025_06_24_TD_Securities_DCS.pdf)|
 |TFS Currencies Pte Ltd  | Broker or investment adviser | 2019-02 | 2018-02-27 | [](/files/Pdf/Register/TFSC.pdf) | N.A.|
 |The Bank of East Asia, Limited (Singapore Branch)  | Bank | 2019-01 | 2018-12-31 | [](/files/Pdf/Register/TheBankofEastAsia.pdf) | N.A.|
 |The FX activity of BNP Paribas Global Markets  | Bank | 2019-01 | 2022-05-06 | [](/files/Pdf/Register/BNPP.pdf) | N.A.|
