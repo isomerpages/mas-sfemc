@@ -176,8 +176,8 @@
 			<participant_name>Monetary Authority of Singapore</participant_name>
 			<participant_type>Central bank</participant_type>
 			<date_admission>2019-01</date_admission>
-			<date_signing>2022-08-31</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/MAS.pdf</statement_url>
+			<date_signing>2025-06-30</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_06_30_MAS_Statement_of_Commitment.pdf</statement_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>Bangkok Bank Public Company Limited, Singapore Branch</participant_name>
@@ -479,9 +479,9 @@
 			<participant_name>TD Securities</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
-			<date_signing>2022-04-29</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/TD Securities-FX-Global-Code.pdf</statement_url>
-			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/FX Disclosure Cover Sheet (TD Securities).pdf</disclosure_sheet_url>
+			<date_signing>2025-06-24</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_06_24_TD_Securities_DCS.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/2025_06_24_TD_Securities_SOC.pdf</disclosure_sheet_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>SPD Bank Singapore Branch</participant_name>
