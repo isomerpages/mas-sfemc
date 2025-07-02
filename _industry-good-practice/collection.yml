@@ -2,6 +2,7 @@ collections:
   industry-good-practice:
     output: true
     order:
+      - Whitepaper on FX Fixing Transactions in the Asian Timezone.md
       - Blue Book.md
       - Global Preamble.md
       - FX Global Code.md
