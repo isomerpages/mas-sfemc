@@ -8,7 +8,6 @@ variant: markdown
 | -------- | -------- |
 | Yun Zhang     | Barclays     | 
 | Patrick Leung     | BlackRock     | 
-| Mikko Rusi     | BNP Paribas     | 
 | Nathan Venkat Swami     | Citibank     | 
 | David Dredge     | Convex Strategies     | 
 | Andrew Ng (Co-Chairperson)     | DBS     | 
