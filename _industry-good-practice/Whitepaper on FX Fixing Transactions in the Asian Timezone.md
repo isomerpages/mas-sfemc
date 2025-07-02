@@ -11,6 +11,6 @@ FX fixing transactions involving regional currencies. It also sets out
 implementation considerations for wider execution of FX fixing transactions
 during the Asian time-zone for market participants in Asia, and lays out
 selected case studies for market participants’ reference.</p>
-<p><a href="(/files/Whitepaper_on_FX_Fixing_Transactions_in_the_Asian_Time_zone.pdf)" rel="noopener nofollow" target="_blank">Whitepaper on FX Fixing Transactions in the Asian Timezone</a>
+<p>Download here: <a href="/files/Whitepaper_on_FX_Fixing_Transactions_in_the_Asian_Time_zone.pdf" rel="noopener nofollow" target="_blank">Whitepaper on FX Fixing Transactions in the Asian Timezone</a>
 </p>
 <p></p>
