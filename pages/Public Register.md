@@ -37,8 +37,8 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Barclays Bank PLC  | Bank | 2019-01 | 2022-06-30 | [](/files/Pdf/Register/Barclays.pdf) | [](/files/Pdf/Dcs/Barclays_Disclosure_Cover_Sheet.pdf)|
 |BBVA S.A.  | Bank | 2019-01 | 2017-09-15 | [](/files/Pdf/Register/BBVA.pdf) | N.A.|
 |Cathay United Bank  | Bank | 2019-01 | 2018-08-11 | [](/files/Pdf/Register/CATHAYUNITEDBANK.pdf) | N.A.|
-|CGS International Securities Singapore Pte. Ltd.  | Broker or investment adviser | 2025-07 | 2025-07-03 | [](/files/Pdf/Register/CHANGHWABANKLtd.pdf) | N.A.|
-|Chang Hwa Commercial Bank Ltd.  | Bank | 2019-01 | 2018-08-20 | [](/files/Pdf/Register/2025_07_06_CGS_International_SOC.pdf) | N.A.|
+|CGS International Securities Singapore Pte. Ltd.  | Broker or investment adviser | 2025-07 | 2025-07-03 | [](/files/Pdf/Register/2025_07_06_CGS_International_SOC.pdf) | N.A.|
+|Chang Hwa Commercial Bank Ltd.  | Bank | 2019-01 | 2018-08-20 | [](/files/Pdf/Register/CHANGHWABANKLtd.pdf) | N.A.|
 |China CITIC Bank International Limited, Singapore Branch  | Bank | 2019-01 | 2019-01-16 | [](/files/Pdf/Register/CITICBANK.pdf) | N.A.|
 |China Construction Bank Corporation, Singapore Branch  | Bank | 2019-01 | 2018-12-31 | [](/files/Pdf/Register/ChinaConstructionBank.pdf) | N.A.|
 |China Merchants Bank Co. Ltd., Singapore Branch  | Bank | 2019-01 | 2018-09-07 | [](/files/Pdf/Register/ChinaMerchantsBank.pdf) | N.A.|
