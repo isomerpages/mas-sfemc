@@ -18,6 +18,7 @@ variant: markdown
 | Stefanie Holtze-Jen     | Deutsche Bank     | 
 | Kenneth Kan    | Dymon Asia     | 
 | Jeffrey Tan     | GIC     | 
+| Johnny Bou Maachar     | HSBC     | 
 | Vikas Gupta     | JPMorgan     | 
 | Rohit Verma   | LCH     | 
 | Tom Freeman   | Macquarie     | 
