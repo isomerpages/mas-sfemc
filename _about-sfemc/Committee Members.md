@@ -7,7 +7,6 @@ variant: markdown
 | Name | Company | 
 | -------- | -------- |
 | Yun Zhang     | Barclays     | 
-| Patrick Leung     | BlackRock     | 
 | Nathan Venkat Swami     | Citibank     | 
 | David Dredge     | Convex Strategies     | 
 | Andrew Ng (Co-Chairperson)     | DBS     | 

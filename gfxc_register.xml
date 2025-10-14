@@ -74,8 +74,8 @@
 			<participant_name>Standard Chartered Bank</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
-			<date_signing>2021-12-08</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/FX_CODE_SOC_2021_SCB.pdf</statement_url>
+			<date_signing>2025-06-02</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_06_02_SCB_SOC.pdf</statement_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>Tradition Singapore Pte. Ltd.</participant_name>
@@ -351,9 +351,9 @@
 			<participant_name>NatWest Markets Plc</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
-			<date_signing>2022-06-07</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/NATWESTMARKETS.pdf</statement_url>
-			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/liquidity-provider-disclosure-cover-sheet (Natwest).pdf</disclosure_sheet_url>
+			<date_signing>2025-07-02</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_07_02_NatWest_Markets_SOC.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/2025_06_NatWest_Markets_DCS.pdf</disclosure_sheet_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>Norddeutsche Landesbank - Girozentrale</participant_name>
@@ -611,18 +611,11 @@
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/DZBank.pdf</statement_url>
 		</market_participant>
 		<market_participant>
-			<participant_name>ICAP (Singapore) Pte Ltd</participant_name>
+			<participant_name>TP ICAP (Singapore) Pte Ltd</participant_name>
 			<participant_type>Broker or investment adviser</participant_type>
 			<date_admission>2023-02</date_admission>
-			<date_signing>2023-01-19</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/ICAP.pdf</statement_url>
-		</market_participant>
-		<market_participant>
-			<participant_name>Tullett Prebon (Singapore) Limited</participant_name>
-			<participant_type>Broker or investment adviser</participant_type>
-			<date_admission>2023-02</date_admission>
-			<date_signing>2023-01-19</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/TPS.pdf</statement_url>
+			<date_signing>2025-09-23</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_09_23_TP_ICAP_SOC.pdf</statement_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>EIS Global Pte Ltd</participant_name>
