@@ -83,7 +83,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |MUFG Bank, Ltd.  | Bank | 2019-01 | 2022-06-17 | [](/files/Pdf/Register/MUFG.pdf) | N.A.|
 |National Australia Bank Limited  | Bank | 2019-01 | 2017-06-16 | [](/files/Pdf/Register/NATIONALAUSTRALIABANK.pdf) | N.A.|
 |National Bank of Kuwait SAKP, Singapore Branch  | Bank | 2019-01 | 2018-10-19 | [](/files/Pdf/Register/NATIONALBANKOFKUWAIT.pdf) | N.A.|
-|NatWest Markets Plc  | Bank | 2019-01 | 2022-06-07 | [](/files/Pdf/Register/NATWESTMARKETS.pdf) | [](/files/Pdf/Dcs/liquidity-provider-disclosure-cover-sheet (Natwest).pdf)|
+|NatWest Markets PLC  | Bank | 2019-01 | 2025-07-02 | [](/files/Pdf/Register/2025_07_02_NatWest_Markets_SOC.pdf) | [](/files/Pdf/Dcs/2025_06_NatWest_Markets_DCS.pdf)|
 |Nomura, Global Markets Foreign Exchange Division  | Bank | 2019-01 | 2018-06-29 | [](/files/Pdf/Register/Nomura.pdf) | [](/files/Pdf/Dcs/Nomura Liquidity Provider Disclosure Cover Sheet.pdf) |
 |Norddeutsche Landesbank - Girozentrale  | Bank | 2019-01 | 2018-12-05 | [](/files/Pdf/Register/NorddeutscheLandesbank.pdf) | N.A.|
 |Oversea-Chinese Banking Corporation Limited, Singapore  | Bank | 2019-01 | 2022-07-27 | [](/files/Pdf/Register/OCBC.pdf) | N.A.|
@@ -94,7 +94,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Skandinaviska Enskilda Banken AB  | Bank | 2022-09 | 2022-03-24 | [](/files/Pdf/Register/SEB.pdf) | N.A.|
 |Société Générale SA' s Global Markets Division and Société Générale International Limited  | Bank | 2019-01 | 2017-12-29 | [](/files/Pdf/Register/SOCIETEGENERALEGlobalmarkets.pdf) | N.A.|
 |SPD Bank Singapore Branch  | Bank | 2019-01 | 2018-11-21 | [](/files/Pdf/Register/SPDBank.pdf) | N.A.|
-|Standard Chartered Bank  | Bank | 2019-01 | 2021-12-08 | [](/files/Pdf/Register/FX_CODE_SOC_2021_SCB.pdf) | N.A.|
+|Standard Chartered Bank  | Bank | 2019-01 | 2025-06-02 | [](/files/Pdf/Register/2025_06_02_SCB_SOC.pdf) | N.A.|
 |State Street Bank &amp; Trust Company  | Bank | 2022-09 | 2022-07-01 | [](/files/Pdf/Register/SSBTC.pdf) | N.A.|
 |Sumitomo Mitsui Banking Corporation, Singapore Branch  | Bank | 2019-01 | 2023-03-20 | [](/files/Pdf/Register/SUMITOMOMITSUIBANKINGCORPORATION.pdf) | N.A.|
 |Sumitomo Mitsui Trust Bank, Limited (SG Br)  | Bank | 2019-01 | 2023-06-23 | [](/files/Pdf/Register/sumitomomitsuitrustbankltdsg.pdf) | N.A.|
@@ -108,7 +108,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |The Northern Trust Company, Global Foreign Exchange Business  | Bank | 2019-01 | 2018-05-15 | [](/files/Pdf/Register/THENORTHERNTRUSTCOMPANY.pdf) | N.A.|
 |The Shanghai Commercial &amp; Savings Bank, Ltd., Singapore Branch  | Bank | 2019-01 | 2018-12-10 | [](/files/Pdf/Register/THESHANGHAICOMMERCIALSAVINGSBANK.pdf) | N.A.|
 |Tradition Singapore Pte. Ltd.  | Broker or investment adviser | 2019-01 | 2018-03-02 | [](/files/Pdf/Register/TraditionSingapore.pdf) | N.A.|
-|Tullett Prebon (Singapore) Limited  | Broker or investment adviser | 2023-02 | 2023-01-19 | [](/files/Pdf/Register/TPS.pdf) | N.A.|
+|TP ICAP (Singapore) Pte Ltd | Broker or investment adviser | 2023-02 | 2025-09-23 | [](/files/Pdf/Register/2025_09_23_TP_ICAP_SOC.pdf) | N.A.|
 |UBS Investment Bank  | Bank | 2019-01 | 2022-02-17 | [](/files/Pdf/Register/statement_of_commitment_UBS IB.pdf) | [](/files/Pdf/Dcs/GFXC Liquidity Provider Disclosure Cover Sheet (2021 Dec).pdf)|
 |Union Bancaire Privée, UBP SA, Singapore Branch  | Bank | 2019-01 | 2018-12-05 | [](/files/Pdf/Register/UnionBancairePrivee.pdf) | N.A.|
 |United Overseas Bank Limited – UOB Singapore  | Bank | 2019-01 | 2022-07-22 | [](/files/Pdf/Register/UOB.pdf) | N.A.|
