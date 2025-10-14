@@ -66,7 +66,6 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Graticule Asset Management Asia, L.P.  | Asset manager | 2019-01 | 2018-04-30 | [](/files/Pdf/Register/Graticule.pdf) | N.A.|
 |HL Bank  | Bank | 2019-01 | 2018-12-21 | [](/files/Pdf/Register/HLBANK.pdf) | N.A.|
 |HSBC Holdings plc  | Bank | 2019-01 | 2022-06-30 | [](/files/Pdf/Register/HSBC.pdf) | [](/files/Pdf/Dcs/HSBC_Liquidity_Provider_Disclosure_Cover_Sheet_June_2024.pdf)|
-|ICAP (Singapore) Pte Ltd  | Broker or investment adviser | 2023-02 | 2023-01-19 | [](/files/Pdf/Register/ICAP.pdf) | N.A.|
 |ICBC Standard Bank, PLC, Singapore Branch  | Bank | 2019-01 | 2022-05-19 | [](/files/Pdf/Register/ICBC Standard Bank Singapore Branch_SOC to the FX Global Code_2022.pdf) | N.A.|
 |ICICI Bank Limited  | Bank | 2019-01 | 2018-03-21 | [](/files/Pdf/Register/ICICI.pdf) | N.A.|
 |Indian Overseas Bank Singapore  | Bank | 2019-01 | 2018-12-12 | [](/files/Pdf/Register/INDIANOVERSEASBANK.pdf) | N.A.|
