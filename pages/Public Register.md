@@ -77,7 +77,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |LBBW-Landesbank Baden-Württemberg, Singapore branch  | Bank | 2019-03 | 2018-12-05 | [](/files/Pdf/Register/LBBW.pdf) | N.A.|
 |Malayan Banking Berhad, Singapore  | Bank | 2019-01 | 2022-11-08 | [](/files/Pdf/Register/MalayanBanking.pdf) | N.A.|
 |Maybank Singapore Limited  | Bank | 2019-01 | 2022-11-08 | [](/files/Pdf/Register/MayBank.pdf) | N.A.|
-|Mizuho Bank, Ltd. (Singapore Branch)  | Bank | 2019-01 | 2022-10-12 | [](/files/Pdf/Register/Mizuho.pdf) | N.A.|
+|Mizuho Bank, Ltd. (Singapore Branch)  | Bank | 2019-01 | 2025-10-08 | [](/files/Pdf/Register/2025_10_08_Mizuho_Bank_SoC.pdf) | [](/files/Pdf/Dcs/2025_09_26_Mizuho_Bank_DCS.pdf)|
 |Monetary Authority of Singapore  | Central bank | 2019-01 | 2025-06-30 | [](/files/Pdf/Register/2025_06_30_MAS_Statement_of_Commitment.pdf) | N.A.|
 |MUFG Bank, Ltd.  | Bank | 2019-01 | 2022-06-17 | [](/files/Pdf/Register/MUFG.pdf) | N.A.|
 |National Australia Bank Limited  | Bank | 2019-01 | 2017-06-16 | [](/files/Pdf/Register/NATIONALAUSTRALIABANK.pdf) | N.A.|
