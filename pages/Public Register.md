@@ -80,7 +80,6 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Mizuho Bank, Ltd. (Singapore Branch)  | Bank | 2019-01 | 2025-10-08 | [](/files/Pdf/Register/2025_10_08_Mizuho_Bank_SoC.pdf) | [](/files/Pdf/Dcs/2025_09_26_Mizuho_Bank_DCS.pdf)|
 |Monetary Authority of Singapore  | Central bank | 2019-01 | 2025-06-30 | [](/files/Pdf/Register/2025_06_30_MAS_Statement_of_Commitment.pdf) | N.A.|
 |MUFG Bank, Ltd.  | Bank | 2019-01 | 2022-06-17 | [](/files/Pdf/Register/MUFG.pdf) | N.A.|
-|National Australia Bank Limited  | Bank | 2019-01 | 2017-06-16 | [](/files/Pdf/Register/NATIONALAUSTRALIABANK.pdf) | N.A.|
 |National Bank of Kuwait SAKP, Singapore Branch  | Bank | 2019-01 | 2018-10-19 | [](/files/Pdf/Register/NATIONALBANKOFKUWAIT.pdf) | N.A.|
 |NatWest Markets Plc  | Bank | 2019-01 | 2025-07-02 | [](/files/Pdf/Register/2025_07_02_NatWest_Markets_SOC.pdf) | [](/files/Pdf/Dcs/2025_06_NatWest_Markets_DCS.pdf)|
 |Nomura, Global Markets Foreign Exchange Division  | Bank | 2019-01 | 2018-06-29 | [](/files/Pdf/Register/Nomura.pdf) | [](/files/Pdf/Dcs/Nomura Liquidity Provider Disclosure Cover Sheet.pdf) |
