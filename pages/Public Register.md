@@ -36,7 +36,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Bank Pictet &amp; Cie (Asia) Ltd  | Bank | 2019-02 | 2019-01-18 | [](/files/Pdf/Register/Pictet.pdf) | N.A.|
 |Barclays Bank PLC  | Bank | 2019-01 | 2022-06-30 | [](/files/Pdf/Register/Barclays.pdf) | [](/files/Pdf/Dcs/Barclays_Disclosure_Cover_Sheet.pdf)|
 |BBVA S.A.  | Bank | 2019-01 | 2017-09-15 | [](/files/Pdf/Register/BBVA.pdf) | N.A.|
-|Bright Point International Financial (SG) Pte Ltd | Bank | 2025-10-27 | 2025-10-27 | [](/files/Pdf/Register/2025_10_27_Brightpoint___SOC.pdf) | N.A.|
+|Bright Point International Financial (SG) Pte Ltd | Bank | 2025-10 | 2025-10-27 | [](/files/Pdf/Register/2025_10_27_Brightpoint___SOC.pdf) | N.A.|
 |Cathay United Bank  | Bank | 2019-01 | 2018-08-11 | [](/files/Pdf/Register/CATHAYUNITEDBANK.pdf) | N.A.|
 |CGS International Securities Singapore Pte. Ltd.  | Broker or investment adviser | 2025-07 | 2025-07-03 | [](/files/Pdf/Register/2025_07_06_CGS_International_SOC.pdf) | N.A.|
 |Chang Hwa Commercial Bank Ltd.  | Bank | 2019-01 | 2018-08-20 | [](/files/Pdf/Register/CHANGHWABANKLtd.pdf) | N.A.|
