@@ -86,7 +86,7 @@
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/TraditionSingapore.pdf</statement_url>
 		</market_participant>
 		<market_participant>
-			<participant_name>United Overseas Bank Limited Ã¢â‚¬â€œ UOB Singapore</participant_name>
+			<participant_name>United Overseas Bank Limited - UOB Singapore</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
 			<date_signing>2022-07-22</date_signing>
@@ -624,6 +624,13 @@
 			<date_admission>2025-07</date_admission>
 			<date_signing>2025-07-03</date_signing>
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_07_06_CGS_International_SOC.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Bright Point International Financial (SG) Pte Ltd</participant_name>
+			<participant_type>Broker or investment adviser</participant_type>
+			<date_admission>2025-10</date_admission>
+			<date_signing>2025-10-27</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_10_27_Brightpoint___SOC.pdf</statement_url>
 		</market_participant>
 	</market_participants>
 </local_register>

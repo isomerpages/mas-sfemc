@@ -14,7 +14,7 @@ For more information about the FX Global Code and the Statement of Commitment, p
  
 
 ##### SFEMC Public Register
-The SFEMC is hosting a public register where Singapore-based market participants can publish their Statement of Commitments. The SFEMC public register is a participating public register on the [Global Index of Public Registers](https://www.globalfxc.org/public_registers.htm), which acts as a central location that links various public registers, providing a comprehensive view of market participants’ commitment to good practices.
+The SFEMC is hosting a public register where Singapore-based market participants can publish their Statement of Commitments. The SFEMC public register is a participating public register on the [Global Index of Public Registers](https://www.globalfxc.org/global-index-of-public-registers/), which acts as a central location that links various public registers, providing a comprehensive view of market participants’ commitment to good practices.
 
 Singapore-based market participants interested to publish their Statement of Commitments on the SFEMC public register can write to [SFEMC_SURVEY@mas.gov.sg](mailto:SFEMC_SURVEY@mas.gov.sg).
 
