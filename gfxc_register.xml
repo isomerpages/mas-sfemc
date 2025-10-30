@@ -335,13 +335,6 @@
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/KRUNGTHAIBANK.pdf</statement_url>
 		</market_participant>
 		<market_participant>
-			<participant_name>National Australia Bank Limited</participant_name>
-			<participant_type>Bank</participant_type>
-			<date_admission>2019-01</date_admission>
-			<date_signing>2017-06-16</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/NATIONALAUSTRALIABANK.pdf</statement_url>
-		</market_participant>
-		<market_participant>
 			<participant_name>National Bank of Kuwait SAKP, Singapore Branch</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
