@@ -51,7 +51,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Crédit Industriel et Commercial, Singapore Branch  | Bank | 2019-01 | 2022-04-27 | [](/files/Pdf/Register/statement_of_commitment (CIC).pdf) | N.A.|
 |Credit Suisse Group  | Bank | 2019-01 | 2022-12-20 | [](/files/Pdf/Register/CREDITSUISSEGroup.pdf) | N.A.|
 |CSOP Asset Management Pte. Ltd.  | Asset manager | 2022-10 | 2022-10-17 | [](/files/Pdf/Register/CSOP.pdf) | N.A.|
-|DBS Bank Ltd.  | Bank | 2019-01 | 2022-06-15 | [](/files/Pdf/Register/DBS.pdf) | [](/files/Pdf/Dcs/DBS_Disclosure_Cover_Sheet.pdf)|
+|DBS Bank Ltd.  | Bank | 2019-01 | 2025-09-30 | [](/files/Pdf/Register/2025_09_30_DBS_SOC.pdf) | [](/files/Pdf/Dcs/2025_09_30_DBS_DCS.pdf)|
 |Deutsche Bank AG  | Bank | 2019-01 | 2022-09-21 | [](/files/Pdf/Register/DEUTSCHEBANK.pdf) | N.A.|
 |DNB Bank ASA  | Bank | 2019-01 | 2018-07-03 | [](/files/Pdf/Register/DNBBANK.pdf) | N.A.|
 |DZ Bank AG  | Bank | 2023-01 | 2022-05-10 | [](/files/Pdf/Register/DZBank.pdf) | N.A.|
