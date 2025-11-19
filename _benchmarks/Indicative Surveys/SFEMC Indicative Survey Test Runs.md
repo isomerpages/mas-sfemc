@@ -3,7 +3,12 @@ title: SFEMC Indicative Survey Test Runs
 permalink: /benchmarks/indicative-surveys/test-runs/
 description: ""
 third_nav_title: Indicative Surveys
+variant: markdown
 ---
+##### 2025 #####
+*   [18 November 2025: SFEMC PHP Indicative Survey](/files/Indicative%20Survey/Test%20Runs/18_November_2025__Test_Run____SFEMC_PHP_Indicative_Survey.pdf)
+*   [18 November 2025: SFEMC KRW Indicative Survey](/files/Indicative%20Survey/Test%20Runs/18_November_2025__Test_Run____SFEMC_KRW_Indicative_Survey.pdf)
+
 ##### 2023 #####
 *   27 October 2023: SFEMC CNY Indicative Survey discontinued as onshore price source is available for the determination of a settlement rate. No CNY Indicative Survey Rate is published.
 *   27 October 2023: SFEMC INR Indicative Survey discontinued as onshore price source is available for the determination of a settlement rate. No INR Indicative Survey Rate is published.
