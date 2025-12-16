@@ -14,7 +14,6 @@ variant: markdown
 | Tai Man Fung Jacky    | DBS    | 
 | Akash Mohapatra     | Deutsche Bank     | 
 | Ashok Kumar Das     | Deutsche Bank     | 
-| Stefanie Holtze-Jen     | Deutsche Bank     | 
 | Kenneth Kan    | Dymon Asia     | 
 | Jeffrey Tan     | GIC     | 
 | Johnny Bou Maachar     | HSBC     | 
