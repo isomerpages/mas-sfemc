@@ -43,7 +43,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |China CITIC Bank International Limited, Singapore Branch  | Bank | 2019-01 | 2019-01-16 | [](/files/Pdf/Register/CITICBANK.pdf) | N.A.|
 |China Construction Bank Corporation, Singapore Branch  | Bank | 2019-01 | 2018-12-31 | [](/files/Pdf/Register/ChinaConstructionBank.pdf) | N.A.|
 |China Merchants Bank Co. Ltd., Singapore Branch  | Bank | 2019-01 | 2018-09-07 | [](/files/Pdf/Register/ChinaMerchantsBank.pdf) | N.A.|
-|CIBC Capital Markets  | Bank | 2019-01 | 2022-06-29 | [](/files/Pdf/Register/CIBCCAPITALMARKETS.pdf) | N.A.|
+|CIBC Capital Markets  | Bank | 2019-01 | 2025-09-17 | [](/files/Pdf/Register/2025_09_17_CIBC_SOC.pdf) | N.A.|
 |Citi Institutional Clients Group Global FX  | Bank | 2019-01 | 2022-07-14 | [](/files/Pdf/Register/Citi.pdf) | [](/files/Pdf/Dcs/Citi_Disclosure_Cover_Sheet.pdf)|
 |City Financial Investment Company Pte Ltd  | Asset manager | 2019-01 | 2018-01-23 | [](/files/Pdf/Register/CityFinancial.pdf) | N.A.|
 |Convex Strategies Pte Ltd  | Asset manager | 2022-07 | 2022-07-21 | [](/files/Pdf/Register/ConvexStrategies.pdf) | N.A.|
