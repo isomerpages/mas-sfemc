@@ -34,7 +34,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Bank of Communications Co., Ltd., Singapore Branch  | Bank | 2019-01 | 2018-12-28 | [](/files/Pdf/Register/BANKOFCOMMUNICATIONS.pdf) | N.A.|
 |Bank of Taiwan, Singapore Branch  | Bank | 2019-01 | 2018-10-19 | [](/files/Pdf/Register/BANKOFTAIWAN.pdf) | N.A.|
 |Bank Pictet &amp; Cie (Asia) Ltd  | Bank | 2019-02 | 2019-01-18 | [](/files/Pdf/Register/Pictet.pdf) | N.A.|
-|Barclays Bank PLC  | Bank | 2019-01 | 2022-06-30 | [](/files/Pdf/Register/Barclays.pdf) | [](/files/Pdf/Dcs/Barclays_Disclosure_Cover_Sheet.pdf)|
+|Barclays Bank PLC  | Bank | 2019-01 | 2025-12-18 | [](/files/Pdf/Register/2025_12_18_Barclays_SOC.pdf) | [](/files/Pdf/Dcs/Barclays_Disclosure_Cover_Sheet.pdf)|
 |BBVA S.A.  | Bank | 2019-01 | 2017-09-15 | [](/files/Pdf/Register/BBVA.pdf) | N.A.|
 |Bright Point International Financial (SG) Pte Ltd | Broker or investment adviser | 2025-10 | 2025-10-27 | [](/files/Pdf/Register/2025_10_27_Brightpoint___SOC.pdf) | N.A.|
 |Cathay United Bank  | Bank | 2019-01 | 2018-08-11 | [](/files/Pdf/Register/CATHAYUNITEDBANK.pdf) | N.A.|
@@ -110,7 +110,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |TP ICAP (Singapore) Pte Ltd | Broker or investment adviser | 2023-02 | 2025-09-23 | [](/files/Pdf/Register/2025_09_23_TP_ICAP_SOC.pdf) | N.A.|
 |UBS Investment Bank  | Bank | 2019-01 | 2022-02-17 | [](/files/Pdf/Register/statement_of_commitment_UBS IB.pdf) | [](/files/Pdf/Dcs/GFXC Liquidity Provider Disclosure Cover Sheet (2021 Dec).pdf)|
 |Union Bancaire Privée, UBP SA, Singapore Branch  | Bank | 2019-01 | 2018-12-05 | [](/files/Pdf/Register/UnionBancairePrivee.pdf) | N.A.|
-|United Overseas Bank Limited – UOB Singapore  | Bank | 2019-01 | 2022-07-22 | [](/files/Pdf/Register/UOB.pdf) | N.A.|
+|United Overseas Bank Limited – UOB Singapore  | Bank | 2019-01 | 2025-10-15 | [](/files/Pdf/Register/2025_10_15_UOB_SOC.pdf) | [](/files/Pdf/Dcs/2025_10_15_UOB_DCS.pdf)|
 |Virtu Financial Singapore Pte. Ltd.  | E-trading platform | 2025-03 | 2025-03-26 | [](/files/Pdf/Register/VFGSG___Statement_of_Commitment__26_March_2025_.pdf) | N.A.|
 |VP Bank Ltd, Singapore Branch  | Bank | 2019-01 | 2018-12-21 | [](/files/Pdf/Register/VPBANK.pdf) | N.A.|
 |Westpac Banking Corporation  | Bank | 2019-01 | 2022-08-11 | [](/files/Pdf/Register/WESTPACBANKINGCORPORATION.pdf) | N.A.|
