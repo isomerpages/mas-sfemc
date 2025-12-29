@@ -94,7 +94,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Société Générale SA' s Global Markets Division and Société Générale International Limited  | Bank | 2019-01 | 2017-12-29 | [](/files/Pdf/Register/SOCIETEGENERALEGlobalmarkets.pdf) | N.A.|
 |SPD Bank Singapore Branch  | Bank | 2019-01 | 2018-11-21 | [](/files/Pdf/Register/SPDBank.pdf) | N.A.|
 |Standard Chartered Bank  | Bank | 2019-01 | 2025-06-02 | [](/files/Pdf/Register/2025_06_02_SCB_SOC.pdf) | N.A.|
-|State Street Bank &amp; Trust Company  | Bank | 2022-09 | 2022-07-01 | [](/files/Pdf/Register/SSBTC.pdf) | N.A.|
+|State Street Bank &amp; Trust Company  | Bank | 2022-09 | 2022-07-01 | [](/files/Pdf/Register/2025_12_22_State_Street_SOC.pdf) | [](/files/Pdf/Dcs/2025_12_22_State_Street_DCS.pdf)|
 |Sumitomo Mitsui Banking Corporation, Singapore Branch  | Bank | 2019-01 | 2023-03-20 | [](/files/Pdf/Register/SUMITOMOMITSUIBANKINGCORPORATION.pdf) | N.A.|
 |Sumitomo Mitsui Trust Bank, Limited (SG Br)  | Bank | 2019-01 | 2023-06-23 | [](/files/Pdf/Register/sumitomomitsuitrustbankltdsg.pdf) | N.A.|
 |Svenska Handelsbanken AB (Singapore Branch)  | Bank | 2019-01 | 2018-08-20 | [](/files/Pdf/Register/SvenskaHandelsbanken.pdf) | N.A.|
