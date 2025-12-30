@@ -66,7 +66,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |GIC Private Limited  | Sovereign wealth fund | 2019-01 | 2022-08-02 | [](/files/Pdf/Register/GIC.pdf) | N.A.|
 |Graticule Asset Management Asia, L.P.  | Asset manager | 2019-01 | 2018-04-30 | [](/files/Pdf/Register/Graticule.pdf) | N.A.|
 |HL Bank  | Bank | 2019-01 | 2018-12-21 | [](/files/Pdf/Register/HLBANK.pdf) | N.A.|
-|HSBC Holdings plc  | Bank | 2019-01 | 2022-06-30 | [](/files/Pdf/Register/HSBC.pdf) | [](/files/Pdf/Dcs/HSBC_Liquidity_Provider_Disclosure_Cover_Sheet_June_2024.pdf)|
+|HSBC Holdings plc  | Bank | 2019-01 | 2025-12-22 | [](/files/Pdf/Register/Statement_of_Commitment_2025___HSBC_Holdings_plc_FINAL.pdf) | [](/files/Pdf/Dcs/HSBC_Liquidity_Provider_Disclosure_Cover_Sheet_Oct_2025___Final.pdf)|
 |ICBC Standard Bank, PLC, Singapore Branch  | Bank | 2019-01 | 2022-05-19 | [](/files/Pdf/Register/ICBC Standard Bank Singapore Branch_SOC to the FX Global Code_2022.pdf) | N.A.|
 |ICICI Bank Limited  | Bank | 2019-01 | 2018-03-21 | [](/files/Pdf/Register/ICICI.pdf) | N.A.|
 |Indian Overseas Bank Singapore  | Bank | 2019-01 | 2018-12-12 | [](/files/Pdf/Register/INDIANOVERSEASBANK.pdf) | N.A.|
@@ -94,7 +94,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Société Générale SA' s Global Markets Division and Société Générale International Limited  | Bank | 2019-01 | 2017-12-29 | [](/files/Pdf/Register/SOCIETEGENERALEGlobalmarkets.pdf) | N.A.|
 |SPD Bank Singapore Branch  | Bank | 2019-01 | 2018-11-21 | [](/files/Pdf/Register/SPDBank.pdf) | N.A.|
 |Standard Chartered Bank  | Bank | 2019-01 | 2025-06-02 | [](/files/Pdf/Register/2025_06_02_SCB_SOC.pdf) | N.A.|
-|State Street Bank &amp; Trust Company  | Bank | 2022-09 | 2022-07-01 | [](/files/Pdf/Register/SSBTC.pdf) | N.A.|
+|State Street Bank &amp; Trust Company  | Bank | 2022-09 | 2025-12-22 | [](/files/Pdf/Register/2025_12_22_State_Street_SOC.pdf) | [](/files/Pdf/Dcs/2025_12_22_State_Street_DCS.pdf)|
 |Sumitomo Mitsui Banking Corporation, Singapore Branch  | Bank | 2019-01 | 2023-03-20 | [](/files/Pdf/Register/SUMITOMOMITSUIBANKINGCORPORATION.pdf) | N.A.|
 |Sumitomo Mitsui Trust Bank, Limited (SG Br)  | Bank | 2019-01 | 2023-06-23 | [](/files/Pdf/Register/sumitomomitsuitrustbankltdsg.pdf) | N.A.|
 |Svenska Handelsbanken AB (Singapore Branch)  | Bank | 2019-01 | 2018-08-20 | [](/files/Pdf/Register/SvenskaHandelsbanken.pdf) | N.A.|

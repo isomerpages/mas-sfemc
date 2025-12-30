@@ -8,7 +8,7 @@
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
 			<date_signing>2022-06-30</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_12_18_Barclays_SOC.pdf</statement_url>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Barclays.pdf</statement_url>
 			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/Barclays_Disclosure_Cover_Sheet.pdf</disclosure_sheet_url>
 		</market_participant>
 		<market_participant>
@@ -90,8 +90,7 @@
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
 			<date_signing>2022-07-22</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_10_15_UOB_SOC.pdf</statement_url>
-			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/2025_10_15_UOB_DCS.pdf</disclosure_sheet_url>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/UOB.pdf</statement_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>UBS Investment Bank</participant_name>
@@ -170,9 +169,9 @@
 			<participant_name>HSBC Holdings plc</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
-			<date_signing>2022-06-30</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/HSBC.pdf</statement_url>
-			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/HSBC_Liquidity_Provider_Disclosure_Cover_Sheet_June_2024.pdf</disclosure_sheet_url>
+			<date_signing>2025-12-22</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Statement_of_Commitment_2025___HSBC_Holdings_plc_FINAL.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/HSBC_Liquidity_Provider_Disclosure_Cover_Sheet_Oct_2025___Final.pdf</disclosure_sheet_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>Monetary Authority of Singapore</participant_name>
@@ -588,8 +587,9 @@
 			<participant_name>State Street Bank &amp; Trust Company</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2022-09</date_admission>
-			<date_signing>2022-07-01</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/SSBTC.pdf</statement_url>
+			<date_signing>2025-12-22</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_12_22_State_Street_SOC.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/2025_12_22_State_Street_DCS.pdf</disclosure_sheet_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>KGI Securities Singapore Pte. Ltd.</participant_name>
