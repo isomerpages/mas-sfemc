@@ -108,7 +108,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |The Shanghai Commercial &amp; Savings Bank, Ltd., Singapore Branch  | Bank | 2019-01 | 2018-12-10 | [](/files/Pdf/Register/THESHANGHAICOMMERCIALSAVINGSBANK.pdf) | N.A.|
 |Tradition Singapore Pte. Ltd.  | Broker or investment adviser | 2019-01 | 2018-03-02 | [](/files/Pdf/Register/TraditionSingapore.pdf) | N.A.|
 |TP ICAP (Singapore) Pte Ltd | Broker or investment adviser | 2023-02 | 2025-09-23 | [](/files/Pdf/Register/2025_09_23_TP_ICAP_SOC.pdf) | N.A.|
-|UBS Investment Bank  | Bank | 2019-01 | 2022-02-17 | [](/files/Pdf/Register/statement_of_commitment_UBS IB.pdf) | [](/files/Pdf/Dcs/GFXC Liquidity Provider Disclosure Cover Sheet (2021 Dec).pdf)|
+|UBS Investment Bank  | Bank | 2019-01 | 2025-12-16 | [](/files/Pdf/Register/2025_12_16_UBS_SOC.pdf) | [](/files/Pdf/Dcs/GFXC Liquidity Provider Disclosure Cover Sheet (2021 Dec).pdf)|
 |Union Bancaire Privée, UBP SA, Singapore Branch  | Bank | 2019-01 | 2018-12-05 | [](/files/Pdf/Register/UnionBancairePrivee.pdf) | N.A.|
 |United Overseas Bank Limited – UOB Singapore  | Bank | 2019-01 | 2025-10-15 | [](/files/Pdf/Register/2025_10_15_UOB_SOC.pdf) | [](/files/Pdf/Dcs/2025_10_15_UOB_DCS.pdf)|
 |Virtu Financial Singapore Pte. Ltd.  | E-trading platform | 2025-03 | 2025-03-26 | [](/files/Pdf/Register/VFGSG___Statement_of_Commitment__26_March_2025_.pdf) | N.A.|
