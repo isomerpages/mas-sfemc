@@ -113,4 +113,5 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |United Overseas Bank Limited – UOB Singapore  | Bank | 2019-01 | 2025-10-15 | [](/files/Pdf/Register/2025_10_15_UOB_SOC.pdf) | [](/files/Pdf/Dcs/2025_10_15_UOB_DCS.pdf)|
 |Virtu Financial Singapore Pte. Ltd.  | E-trading platform | 2025-03 | 2025-03-26 | [](/files/Pdf/Register/VFGSG___Statement_of_Commitment__26_March_2025_.pdf) | N.A.|
 |VP Bank Ltd, Singapore Branch  | Bank | 2019-01 | 2018-12-21 | [](/files/Pdf/Register/VPBANK.pdf) | N.A.|
+|Wells Fargo Bank  | Bank | 2025-12 | 2025-12-01 | [](/files/Pdf/Register/2025_12_1_Wells_SOC.pdf) | [](/files/Pdf/Dcs/2025_12_1_Wells_DCS.pdf)|
 |Westpac Banking Corporation  | Bank | 2019-01 | 2022-08-11 | [](/files/Pdf/Register/WESTPACBANKINGCORPORATION.pdf) | N.A.|
