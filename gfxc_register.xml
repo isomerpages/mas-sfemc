@@ -97,7 +97,7 @@
 			<participant_type>Bank</participant_type>
 			<date_admission>2019-01</date_admission>
 			<date_signing>2022-02-17</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/statement_of_commitment_UBS IB.pdf</statement_url>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_12_16_UBS_SOC.pdf</statement_url>
 			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/GFXC Liquidity Provider Disclosure Cover Sheet (2021 Dec).pdf</disclosure_sheet_url>
 		</market_participant>
 		<market_participant>
@@ -632,6 +632,14 @@
 			<date_admission>2025-10</date_admission>
 			<date_signing>2025-10-27</date_signing>
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_10_27_Brightpoint___SOC.pdf</statement_url>
+		</market_participant>
+		<market_participant>
+			<participant_name>Wells Fargo Bank</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2025-12</date_admission>
+			<date_signing>2025-12-01</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_12_1_Wells_SOC.pdf</statement_url>
+			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/2025_12_1_Wells_DCS.pdf</disclosure_sheet_url>
 		</market_participant>
 	</market_participants>
 </local_register>
