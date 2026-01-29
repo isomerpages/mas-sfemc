@@ -6,6 +6,8 @@ variant: markdown
 ---
 
 #### 2025 ####
+[October 2025 Survey of Singapore FX Volume](/files/Survey/2025_10%20Survey%20FX.xlsx)
+
 [April 2025
 Survey of Singapore FX Volume](/files/Survey/2025_04%20Survey%20FX.xlsx)
 
