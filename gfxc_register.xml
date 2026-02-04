@@ -641,5 +641,12 @@
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/2025_12_1_Wells_SOC.pdf</statement_url>
 			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/2025_12_1_Wells_DCS.pdf</disclosure_sheet_url>
 		</market_participant>
+		<market_participant>
+			<participant_name>SynOption Pte Ltd</participant_name>
+			<participant_type>E-trading Platform</participant_type>
+			<date_admission>2026-01</date_admission>
+			<date_signing>2026-01-23</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2026_1_23_SynOption_SOC.pdf</statement_url>
+		</market_participant>
 	</market_participants>
 </local_register>
