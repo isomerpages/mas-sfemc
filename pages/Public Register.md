@@ -33,7 +33,6 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Bank of America, N.A., Global Banking and Markets  | Bank | 2019-01 | 2025-04-10 | [](/files/Pdf/Register/BOA_Global_Banking_and_Markets.pdf) |  [](/files/Pdf/Dcs/BofA_Liquidity_Provider_Disclosure_Cover_Sheet_April_2025.pdf)|
 |Bank of Communications Co., Ltd., Singapore Branch  | Bank | 2019-01 | 2018-12-28 | [](/files/Pdf/Register/BANKOFCOMMUNICATIONS.pdf) | N.A.|
 |Bank of Taiwan, Singapore Branch  | Bank | 2019-01 | 2018-10-19 | [](/files/Pdf/Register/BANKOFTAIWAN.pdf) | N.A.|
-|Bank Pictet &amp; Cie (Asia) Ltd  | Bank | 2019-02 | 2019-01-18 | [](/files/Pdf/Register/Pictet.pdf) | N.A.|
 |Barclays Bank PLC  | Bank | 2019-01 | 2025-12-18 | [](/files/Pdf/Register/2025_12_18_Barclays_SOC.pdf) | [](/files/Pdf/Dcs/Barclays_Disclosure_Cover_Sheet.pdf)|
 |BBVA S.A.  | Bank | 2019-01 | 2017-09-15 | [](/files/Pdf/Register/BBVA.pdf) | N.A.|
 |Bright Point International Financial (SG) Pte Ltd | Broker or investment adviser | 2025-10 | 2025-10-27 | [](/files/Pdf/Register/2025_10_27_Brightpoint___SOC.pdf) | N.A.|
