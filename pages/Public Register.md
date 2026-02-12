@@ -58,7 +58,7 @@ The SFEMC does not assume responsibility for (a) verifying the accuracy or valid
 |Eastspring Investments (Singapore) Limited  | Asset manager | 2019-01 | 2023-01-31 | [](/files/Pdf/Register/EastSpring.pdf) | N.A.|
 |EBS part of CME Group  | E-trading platform | 2019-02 | 2022-06-10 | [](/files/Pdf/Register/EBS.pdf) | N.A.|
 |Edgewater Markets  | E-trading platform | 2022-09 | 2022-09-29 | [](/files/Pdf/Register/Edgewater.pdf) | N.A.|
-|EFG Bank AG, Singapore Branch  | Bank | 2021-08 | 2022-09-22 | [](/files/Pdf/Register/2026_2_6_EFG_SOC.pdf) | N.A.|
+|EFG Bank AG, Singapore Branch  | Bank | 2021-08 | 2026-02-06 | [](/files/Pdf/Register/2026_2_6_EFG_SOC.pdf) | N.A.|
 |EIS Global Pte Ltd  | Non-bank liquidity provider | 2023-03 | 2023-03-07 | [](/files/Pdf/Register/EISGlobal.pdf) | N.A.|
 |Euronext Markets Singapore Pte Ltd.  | E-trading platform | 2019-10 | 2025-08-07 | [](/files/Pdf/Register/2025_08_07_Euronext_Markets_Singapore_Pte_Ltd_SOC.pdf) | [](/files/Pdf/Dcs/2025_08_06_Euronext_Markets_Singapore_Pte_Ltd_DCS.pdf)|
 |First Commercial Bank, Ltd.  | Bank | 2019-01 | 2018-12-20 | [](/files/Pdf/Register/FIRSTCOMMERCIALBANK.pdf) | N.A.|
