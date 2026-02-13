@@ -513,6 +513,13 @@
 			<statement_url>https://www.sfemc.org/files/Pdf/Register/EBS.pdf</statement_url>
 		</market_participant>
 		<market_participant>
+			<participant_name>Bank Pictet &amp; Cie (Asia) Ltd</participant_name>
+			<participant_type>Bank</participant_type>
+			<date_admission>2019-02</date_admission>
+			<date_signing>2019-01-18</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/Pictet.pdf</statement_url>
+		</market_participant>
+		<market_participant>
 			<participant_name>TFS Currencies Pte Ltd</participant_name>
 			<participant_type>Broker or investment adviser</participant_type>
 			<date_admission>2019-02</date_admission>
@@ -552,8 +559,8 @@
 			<participant_name>EFG Bank AG, Singapore Branch</participant_name>
 			<participant_type>Bank</participant_type>
 			<date_admission>2021-08</date_admission>
-			<date_signing>2022-09-22</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/Statement of Commitment (EFG Bank AG SG Branch).pdf</statement_url>
+			<date_signing>2026-02-06</date_signing>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2026_2_6_EFG_SOC.pdf</statement_url>
 		</market_participant>
 		<market_participant>
 			<participant_name>SGX FX Markets Pte. Ltd.</participant_name>
@@ -635,11 +642,11 @@
 			<disclosure_sheet_url>https://www.sfemc.org/files/Pdf/Dcs/2025_12_1_Wells_DCS.pdf</disclosure_sheet_url>
 		</market_participant>
 		<market_participant>
-			<participant_name>SynOptions Pte Ltd</participant_name>
-			<participant_type>E-trading platform</participant_type>
+			<participant_name>SynOption Pte Ltd</participant_name>
+			<participant_type>E-trading Platform</participant_type>
 			<date_admission>2026-01</date_admission>
 			<date_signing>2026-01-23</date_signing>
-			<statement_url>https://www.sfemc.org/files/Pdf/Register/2026_1_23_SynOptions_SOC.pdf</statement_url>
+			<statement_url>https://www.sfemc.org/files/Pdf/Register/2026_1_23_SynOption_SOC.pdf</statement_url>
 		</market_participant>
 	</market_participants>
 </local_register>
