@@ -15,7 +15,6 @@ variant: markdown
 | Akash Mohapatra     | Deutsche Bank     | 
 | Ashok Kumar Das     | Deutsche Bank     | 
 | Kenneth Kan    | Dymon Asia     | 
-| Jeffrey Tan     | GIC     | 
 | Johnny Bou Maachar     | HSBC     | 
 | Vikas Gupta     | JPMorgan     | 
 | Rohit Verma   | LCH     | 
