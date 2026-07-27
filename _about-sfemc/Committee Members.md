@@ -15,13 +15,13 @@ variant: markdown
 | Akash Mohapatra     | Deutsche Bank     | 
 | Ashok Kumar Das     | Deutsche Bank     | 
 | Kenneth Kan    | Dymon Asia     | 
+| Samit Nathirmal    | GIC     | 
 | Johnny Bou Maachar     | HSBC     | 
 | Vikas Gupta     | JPMorgan     | 
-| Rohit Verma   | LCH     | 
 | Tom Freeman   | Macquarie     | 
 | Leong Sing Chiong (Co-Chairperson)     | MAS     | 
 | Bernard Wee     | MAS     | 
-| Leng Hoe Lon     | Nomura     | 
+| Leng Hoe Lon     | Modular     | 
 | Kenneth Lai     | OCBC     | 
 | Tan May Ling     | OCBC     | 
 | Daniel Koh     | SGX   | 
