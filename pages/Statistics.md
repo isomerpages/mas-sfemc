@@ -4,6 +4,8 @@ permalink: /statistics/
 description: ""
 variant: markdown
 ---
+#### 2026 ####
+[April 2026 Survey of Singapore FX Volume](/files/Survey/2026_04%20Survey%20FX.xlsx)
 
 #### 2025 ####
 [October 2025 Survey of Singapore FX Volume](/files/Survey/2025_10%20Survey%20FX.xlsx)
